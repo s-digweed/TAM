@@ -1,32 +1,603 @@
 <tv date="2026-10-03" source-info-url="https://github.com/chris102994/toonamiaftermath-cli" source-info-name="Toonami Aftermath" source-data-url="https://api.toonamiaftermath.com" generator-info-name="Toonami Aftermath CLI">
   <channel id="1">
     <display-name lang="en">Toonami Aftermath East</display-name>
-    <url>https://n8.toonamiaftermath.com:443/livehttporigin/est/NVRPmD-Xr34wn-playlist.m3u8</url>
+    <url>https://n6.toonamiaftermath.com:443/livehttporigin/est/v3gTXL-nTHTqM-playlist.m3u8</url>
   </channel>
   <channel id="2">
     <display-name lang="en">Toonami Aftermath West</display-name>
-    <url>https://n3.toonamiaftermath.com:443/livehttporigin/est/NVRPmD-ud1qVR-playlist.m3u8?streamDelay=180</url>
+    <url>https://n6.toonamiaftermath.com:443/livehttporigin/est/v3gTXL-gDNv3B-playlist.m3u8?streamDelay=180</url>
   </channel>
   <channel id="3">
     <display-name lang="en">Snickelodeon East</display-name>
-    <url>https://n3.toonamiaftermath.com:443/livehttporigin/snick-est/NVRPmD-kbSreL-playlist.m3u8</url>
+    <url>https://n6.toonamiaftermath.com:443/livehttporigin/snick-est/v3gTXL-ZTg6zo-playlist.m3u8</url>
   </channel>
   <channel id="4">
     <display-name lang="en">Snickelodeon West</display-name>
-    <url>https://n7.toonamiaftermath.com:443/livehttporigin/snick-est/NVRPmD-hINZ75-playlist.m3u8?streamDelay=180</url>
+    <url>https://n6.toonamiaftermath.com:443/livehttporigin/snick-est/v3gTXL-HfCiz0-playlist.m3u8?streamDelay=180</url>
   </channel>
   <channel id="5">
     <display-name lang="en">MTV97</display-name>
-    <url>https://n7.toonamiaftermath.com:443/livehttporigin/mtv97/NVRPmD-5pIdi8-playlist.m3u8</url>
+    <url>https://n8.toonamiaftermath.com:443/livehttporigin/mtv97/v3gTXL-cTuQrB-playlist.m3u8</url>
   </channel>
   <channel id="6">
     <display-name lang="en">Movies</display-name>
-    <url>https://n7.toonamiaftermath.com:443/livehttporigin/movies/NVRPmD-5sJ0e3-playlist.m3u8</url>
+    <url>https://n8.toonamiaftermath.com:443/livehttporigin/movies/v3gTXL-yE3YxV-playlist.m3u8</url>
   </channel>
   <channel id="7">
     <display-name lang="en">Toonami Aftermath Radio</display-name>
-    <url>https://n7.toonamiaftermath.com:443/livehttporigin/radio/NVRPmD-fzIQSv-playlist.m3u8</url>
+    <url>https://n8.toonamiaftermath.com:443/livehttporigin/radio/v3gTXL-aTaeMQ-playlist.m3u8</url>
   </channel>
+  <programme start="20261003012530 +0000" stop="20261003014814 +0000" channel="1">
+    <title lang="en">Sailor Moon</title>
+    <title lang="en">Sailor Moon</title>
+    <sub-title lang="en">Final Battle</sub-title>
+    <desc lang="en">The Scouts desperately struggle to vanquish the ultimate evil of Wiseman, as well as try to restore the brainwashed Rini back to her old self again.</desc>
+    <credits>
+      <writer>Susan Roman</writer>
+      <writer>Jill Frappier</writer>
+      <writer>Katie Griffin</writer>
+      <producer>Cloverway International (CWI)</producer>
+      <producer>DIC Entertainment</producer>
+      <producer>Optimum Productions</producer>
+    </credits>
+    <date>19981221</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"></icon>
+    <episode-num system="xmltv_ns">1.40.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>7.7/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif</image>
+  </programme>
+  <programme start="20261003014814 +0000" stop="20261003021210 +0000" channel="1">
+    <title lang="en">Dragon Ball Z</title>
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">A Heavy Burden</sub-title>
+    <desc lang="en">Goku, still in the magnetic storm, attempts to save himself before he is crushed by the gravity; Vegeta and Zarbon fight a rematch as Krillin and Bulma watch in fear; Gohan flies back with the Dragon Ball he located.</desc>
+    <credits>
+      <writer>Doc Harris</writer>
+      <writer>Christopher Sabat</writer>
+      <writer>Scott McNeil</writer>
+      <producer>Ocean Group</producer>
+      <producer>Toei Animation</producer>
+      <producer>Toei Company</producer>
+    </credits>
+    <date>19971108</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"></icon>
+    <episode-num system="xmltv_ns">1.17.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>8.7/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif</image>
+  </programme>
+  <programme start="20261003021210 +0000" stop="20261003023624 +0000" channel="1">
+    <title lang="en">Dragon Ball Z</title>
+    <title lang="en">Dragon Ball Z</title>
+    <sub-title lang="en">Immortality Denied</sub-title>
+    <desc lang="en">Due to his increased strength, Vegeta is able to defeat Zarbon and takes the Dragon Ball from Krillin; the Ginyu Force is launched; Goku continues training at 100 times normal gravity; Gohan has a run-in with Vegeta.</desc>
+    <credits>
+      <writer>Doc Harris</writer>
+      <writer>Christopher Sabat</writer>
+      <writer>Scott McNeil</writer>
+      <producer>Ocean Group</producer>
+      <producer>Toei Animation</producer>
+      <producer>Toei Company</producer>
+    </credits>
+    <date>19971115</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"></icon>
+    <episode-num system="xmltv_ns">1.18.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>8.7/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif</image>
+  </programme>
+  <programme start="20261003023624 +0000" stop="20261003030400 +0000" channel="1">
+    <title lang="en">Gundam Wing</title>
+    <title lang="en">Mobile Suit Gundam Wing</title>
+    <sub-title lang="en">Shori to Haiboku no Kiseki</sub-title>
+    <desc lang="en">A recap episode from the point of view of Relena and Heero.</desc>
+    <credits>
+      <writer>Hikaru Midorikawa</writer>
+      <writer>Toshihiko Seki</writer>
+      <writer>Ryûzô Ishino</writer>
+      <producer>Sotsu Agency</producer>
+      <producer>Sunrise</producer>
+      <producer>TV Asahi</producer>
+    </credits>
+    <date>20000411</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"></icon>
+    <episode-num system="xmltv_ns">0.26.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>8.2/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif</image>
+  </programme>
+  <programme start="20261003030400 +0000" stop="20261003031816 +0000" channel="1">
+    <title lang="en">Space Ghost Coast to Coast</title>
+    <title lang="en">Space Ghost Coast to Coast</title>
+    <sub-title lang="en">In Memory of Elizabeth Reed</sub-title>
+    <desc lang="en">Space Ghost&#39;s interview with William Shatner is cut short when he is called into action to take part in an epic battle with--wait for it--the HVAC repairmen working on Zorak&#39;s air conditioner.</desc>
+    <credits>
+      <writer>Mike Lazzo</writer>
+      <writer>Khaki Jones</writer>
+      <writer>George Lowe</writer>
+      <writer>C. Martin Croker</writer>
+      <writer>Andy Merrill</writer>
+      <producer>Adult Swim</producer>
+      <producer>Big Deal Cartoons</producer>
+      <producer>Cartoon Network Studios</producer>
+    </credits>
+    <date>20031207</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">SciFi</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif"></icon>
+    <episode-num system="xmltv_ns">7.3.0/1</episode-num>
+    <star-rating system="imdb">
+      <value>8/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif</image>
+  </programme>
+  <programme start="20261003031816 +0000" stop="20261003034411 +0000" channel="1">
+    <title lang="en">Home Movies</title>
+    <title lang="en">Home Movies</title>
+    <sub-title lang="en">Dad</sub-title>
+    <desc lang="en">Brendon meets his father and his father&#39;s annoying girlfriend. A disabled child joins McGuirk&#39;s soccer class.</desc>
+    <credits>
+      <writer>Loren Bouchard</writer>
+      <writer>Brendon Small</writer>
+      <writer>Brendon Small</writer>
+      <writer>H. Jon Benjamin</writer>
+      <writer>Melissa Bardin Galsky</writer>
+      <producer>Soup2Nuts</producer>
+      <producer>Burns &amp; Burns Productions</producer>
+      <producer>Cartoon Network</producer>
+    </credits>
+    <date>20020217</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">SciFi</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/VDMuEdj.gif"></icon>
+    <episode-num system="xmltv_ns">1.6.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>8.1/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/VDMuEdj.gif</image>
+  </programme>
+  <programme start="20261003034411 +0000" stop="20261003040130 +0000" channel="1">
+    <title lang="en">Brak Show</title>
+    <title lang="en">The Brak Show</title>
+    <sub-title lang="en">Brakstreet: Men in the Band</sub-title>
+    <desc lang="en">Brak consults the eccentric advice of a motley cast of characters in his effort to master a distinctive lyrical style capable of winning an upcoming rap battle.</desc>
+    <credits>
+      <writer>Jim Fortier</writer>
+      <writer>Andy Merrill</writer>
+      <writer>Pete Smith</writer>
+      <writer>Andy Merrill</writer>
+      <writer>C. Martin Croker</writer>
+      <writer>George Lowe</writer>
+      <producer>Primal Screen</producer>
+      <producer>Williams Street</producer>
+    </credits>
+    <date>20021103</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/uGF2Olk.gif"></icon>
+    <episode-num system="xmltv_ns">1.4.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>7.2/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/uGF2Olk.gif</image>
+  </programme>
+  <programme start="20261003040130 +0000" stop="20261003042625 +0000" channel="1">
+    <title lang="en">Full Metal Alchemist</title>
+    <title lang="en">Fullmetal Alchemist</title>
+    <sub-title lang="en">Hohenheim of Light</sub-title>
+    <desc lang="en">With the mastermind behind the seven sins organizing a plan to capture the boys as well, Ed and Al must convince Mustang&#39;s faction that the Fuhrer is not what he seems. The strange reappearance of their father only complicates things further, as we learn he has his own score to settle...one that goes to root of this entire conspiracy.</desc>
+    <credits>
+      <writer>Vic Mignogna</writer>
+      <writer>Aaron Dismuke</writer>
+      <writer>Romi Pak</writer>
+      <producer>Aniplex</producer>
+      <producer>Bones</producer>
+      <producer>Mainichi Broadcasting System (MBS)</producer>
+    </credits>
+    <date>20060128</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/3T6NatN.gif"></icon>
+    <episode-num system="xmltv_ns">0.43.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>8.6/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/3T6NatN.gif</image>
+  </programme>
+  <programme start="20261003042625 +0000" stop="20261003045037 +0000" channel="1">
+    <title lang="en">Yu Yu Hakusho: Ghost Files</title>
+    <title lang="en">Yu Yu Hakusho: Ghost Files</title>
+    <sub-title lang="en">Shinobiyoru Dokuta no Ma no Te</sub-title>
+    <desc lang="en">Inside the hospital, Yusuke&#39;s group enters the territory of another psychic. This time it&#39;s definitely that of a major unfriendly, one who&#39;s out to infect everyone with a killer virus, but that isn&#39;t his only sick trick.</desc>
+    <credits>
+      <writer>Yoshihiro Togashi</writer>
+      <writer>Nozomu Sasaki</writer>
+      <writer>Justin Cook</writer>
+      <writer>Christopher Sabat</writer>
+      <producer>Pierrot</producer>
+      <producer>Yomiko Advertising</producer>
+      <producer>Shueisha</producer>
+    </credits>
+    <date>20040911</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/zLgdAie.gif"></icon>
+    <episode-num system="xmltv_ns">0.72.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>8.4/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/zLgdAie.gif</image>
+  </programme>
+  <programme start="20261003045037 +0000" stop="20261003051253 +0000" channel="1">
+    <title lang="en">Rurouni Kenshin</title>
+    <title lang="en">Rurouni Kenshin: Wandering Samurai</title>
+    <sub-title lang="en">As If to Fly: Stop the Launch of the Battleship Purgatory!</sub-title>
+    <desc lang="en">Kenshin, Sanosuke and Saito go to Osaka to stop Shishio and his men.</desc>
+    <credits>
+      <writer>Mayo Suzukaze</writer>
+      <writer>Richard Cansino</writer>
+      <writer>Dorothy Elias-Fahn</writer>
+      <producer>Aniplex</producer>
+      <producer>Aniplex</producer>
+      <producer>Fuji Television Network</producer>
+    </credits>
+    <date>19970416</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/litCtMD.gif"></icon>
+    <episode-num system="xmltv_ns">1.17.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>8.5/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/litCtMD.gif</image>
+  </programme>
+  <programme start="20261003051253 +0000" stop="20261003053608 +0000" channel="1">
+    <title lang="en">Lupin the 3rd</title>
+    <title lang="en">Lupin the 3rd</title>
+    <sub-title lang="en">Tutankhamen&#39;s 3000 Year Curse</sub-title>
+    <desc lang="en">In Egypt, Lupin steals the death mask of King Tutankhamen. As soon as he starts messing around by wearing it, Lupin ends up being cursed and thinks he&#39;s the late ruler of Egypt. Jigen, Goemon, and Fujiko must find a way to cure Lupin.</desc>
+    <credits>
+      <writer>Monkey Punch</writer>
+      <writer>Yasuo Yamada</writer>
+      <writer>Kiyoshi Kobayashi</writer>
+      <writer>Gorô Naya</writer>
+      <producer>TMS Entertainment</producer>
+    </credits>
+    <date>19771114</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/ttnXgu9.gif"></icon>
+    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>8.1/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/ttnXgu9.gif</image>
+  </programme>
+  <programme start="20261003053608 +0000" stop="20261003060000 +0000" channel="1">
+    <title lang="en">Ranma 1/2</title>
+    <title lang="en">Ranma ½</title>
+    <sub-title lang="en">Pî pî P-chan Roku na monjanee</sub-title>
+    <desc lang="en">Ranma proclaims, &#34;Akane is my fiancée!&#34; during the skate battle match. The pair Azusa and Mikado showcase their special technique: the unbeatable couple cleaver, &#34;The Break-Up Merry-Go-Round&#34;!</desc>
+    <credits>
+      <writer>Rumiko Takahashi</writer>
+      <writer>Kappei Yamaguchi</writer>
+      <writer>Megumi Hayashibara</writer>
+      <writer>Noriko Hidaka</writer>
+      <producer>Kitty Animation</producer>
+      <producer>Kitty Films</producer>
+    </credits>
+    <date>19890701</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/GZNzBTy.gif"></icon>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <star-rating system="imdb">
+      <value>7.9/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/GZNzBTy.gif</image>
+  </programme>
+  <programme start="20261003060000 +0000" stop="20261003063051 +0000" channel="1">
+    <title lang="en">Record of Lodoss War: Chronicles of the Heroic Knight</title>
+    <title lang="en">Lodoss to Senki: Eiyuu kishi den</title>
+    <sub-title lang="en">Akumu... Shinobiyoru Ankoku no Chikara</sub-title>
+    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
+    <credits>
+      <writer>Crispin Freeman</writer>
+      <writer>Bill Timoney</writer>
+      <writer>Lisa Ortiz</writer>
+    </credits>
+    <date>19980624</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/yskXuxs.gif"></icon>
+    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
+    <star-rating system="imdb">
+      <value>7.5/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/yskXuxs.gif</image>
+  </programme>
+  <programme start="20261003063051 +0000" stop="20261003064816 +0000" channel="1">
+    <title lang="en">Aqua Teen Hunger Force</title>
+    <title lang="en">Aqua Teen Hunger Force</title>
+    <sub-title lang="en">Carl Wash</sub-title>
+    <desc lang="en">Two floating brains (calling themselves Carl) hire Meatwad to advertise their dilapidated car wash. He is unable to attract customers, so with Shake&#39;s help, they get Carl to take his car in. The brains wreck his car, gas him, and remove his brain.</desc>
+    <credits>
+      <writer>Dave Willis</writer>
+      <writer>Matt Maiellaro</writer>
+      <writer>Dave Willis</writer>
+      <writer>Carey Means</writer>
+      <writer>Dana Snyder</writer>
+      <producer>Awesome Incorporated</producer>
+      <producer>Cartoon Network</producer>
+      <producer>Radical Axis</producer>
+    </credits>
+    <date>20061222</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">SciFi</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/hYYjVXJ.gif"></icon>
+    <episode-num system="xmltv_ns">3.12.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>7.7/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/hYYjVXJ.gif</image>
+  </programme>
+  <programme start="20261003064816 +0000" stop="20261003071658 +0000" channel="1">
+    <title lang="en">Android Kikaider</title>
+    <title lang="en">Android Kikaider: The Animation</title>
+    <sub-title lang="en">Hakaima</sub-title>
+    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
+    <credits>
+      <writer>Tomokazu Seki</writer>
+      <writer>Yui Horie</writer>
+      <writer>Yumiko Kobayashi</writer>
+      <producer>Bandai</producer>
+      <producer>Radix</producer>
+      <producer>Studio OX</producer>
+    </credits>
+    <date>20001225</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/qPWDxEX.gif"></icon>
+    <episode-num system="xmltv_ns">0.10.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>7.3/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/qPWDxEX.gif</image>
+  </programme>
+  <programme start="20261003071658 +0000" stop="20261003073453 +0000" channel="1">
+    <title lang="en">Cromartie High School</title>
+    <title lang="en">Sakigake!! Kuromati Kôkô</title>
+    <sub-title lang="en">I Used to be a Bad Boy Bragging Contest</sub-title>
+    <desc lang="en">Introduction of the delinquents in the first day at school.</desc>
+    <credits>
+      <writer>Takahiro Sakurai</writer>
+      <writer>Ben Pronsky</writer>
+      <writer>Takuma Suzuki</writer>
+      <producer>CPTA</producer>
+      <producer>Production I.G.</producer>
+    </credits>
+    <date>20031003</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Music</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4BYylmk.gif"></icon>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>7.8/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/4BYylmk.gif</image>
+  </programme>
+  <programme start="20261003073453 +0000" stop="20261003080000 +0000" channel="1">
+    <title lang="en">Nadia: The Secret of Blue Water</title>
+    <title lang="en">Nadia: The Secret of Blue Water</title>
+    <sub-title lang="en">Girl at the Eiffel Tower</sub-title>
+    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
+    <credits>
+      <writer>Noriko Hidaka</writer>
+      <writer>Carl Domaski</writer>
+      <writer>Judson Jones</writer>
+      <producer>Corad</producer>
+      <producer>Gainax</producer>
+      <producer>NHK</producer>
+    </credits>
+    <date>19900413</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/n9ylocT.gif"></icon>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>8/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/n9ylocT.gif</image>
+  </programme>
+  <programme start="20261003080000 +0000" stop="20261003081753 +0000" channel="1">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003081753 +0000" stop="20261003083542 +0000" channel="1">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003083542 +0000" stop="20261003085041 +0000" channel="1">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003085041 +0000" stop="20261003090331 +0000" channel="1">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003090331 +0000" stop="20261003091609 +0000" channel="1">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003091609 +0000" stop="20261003092830 +0000" channel="1">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003092830 +0000" stop="20261003094018 +0000" channel="1">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003094018 +0000" stop="20261003095109 +0000" channel="1">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003095109 +0000" stop="20261003100000 +0000" channel="1">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
   <programme start="20261003100000 +0000" stop="20261003101207 +0000" channel="1">
     <title lang="en">Spider-Man</title>
     <title lang="en">Spider-Man</title>
@@ -4397,7 +4968,7 @@
     </star-rating>
     <image>https://www.toonamiaftermath.com/assets/imgur/LXyAtiP.gif</image>
   </programme>
-  <programme start="20261006121354 +0000" stop="20261006123728 +0000" channel="1">
+  <programme start="20261006121354 +0000" channel="1">
     <title lang="en">The Powerpuff Girls</title>
     <title lang="en">The Powerpuff Girls</title>
     <sub-title lang="en">Insect Inside/Powerpuff Bluff</sub-title>
@@ -4426,92 +4997,11 @@
     </star-rating>
     <image>https://www.toonamiaftermath.com/assets/imgur/8ULe6pE.gif</image>
   </programme>
-  <programme start="20261006123728 +0000" stop="20261006124906 +0000" channel="1">
-    <title lang="en">Ed Edd n&#39; Eddy</title>
-    <title lang="en">Ed, Edd n Eddy</title>
-    <sub-title lang="en">Tag Yer Ed/Look Into My Eds</sub-title>
-    <desc lang="en">Look into My Eds: The Eds use a hypnotising pinwheel to control everyone in town. Tag Yer Ed: Edd plans to show Rolf and Kevin that he is tough by arranging a wrestling match.</desc>
-    <credits>
-      <writer>Danny Antonucci</writer>
-      <writer>Matt Hill</writer>
-      <writer>Sam Vincent</writer>
-      <writer>Tony Sampson</writer>
-      <producer>Cartoon Network</producer>
-      <producer>Cartoon Network Studios</producer>
-    </credits>
-    <date>19990208</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Family</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/igzgfih.gif"></icon>
-    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.5/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/igzgfih.gif</image>
-  </programme>
-  <programme start="20261006124906 +0000" stop="20261006130130 +0000" channel="1">
-    <title lang="en">I Am Weasel</title>
-    <title lang="en">I Am Weasel</title>
-    <sub-title lang="en">I Am Clichéd</sub-title>
-    <desc lang="en">The Red Guy writes an &#34;original&#34; script for a show to I.M. Weasel and I.R. Baboon that is full of cartoon clichés.</desc>
-    <credits>
-      <writer>David Feiss</writer>
-      <writer>Charlie Adler</writer>
-      <writer>Michael Dorn</writer>
-      <writer>Dee Bradley Baker</writer>
-      <producer>Cartoon Network</producer>
-      <producer>Hanna-Barbera Productions</producer>
-    </credits>
-    <date>19981208</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Family</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/b0n28MI.gif"></icon>
-    <episode-num system="xmltv_ns">3.1.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>6.7/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/b0n28MI.gif</image>
-  </programme>
-  <programme start="20261006130130 +0000" stop="20261006132448 +0000" channel="1">
-    <title lang="en">Dragon Ball</title>
-    <title lang="en">Dragon Ball</title>
-    <sub-title lang="en">Maboroshi no hikuidori</sub-title>
-    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
-    <credits>
-      <writer>Masako Nozawa</writer>
-      <writer>Jôji Yanami</writer>
-      <writer>Hiromi Tsuru</writer>
-      <producer>The Bird Studio</producer>
-      <producer>Toei Animation</producer>
-      <producer>Toei Company</producer>
-    </credits>
-    <date>19890322</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"></icon>
-    <episode-num system="xmltv_ns">0.149.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.5/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif</image>
-  </programme>
-  <programme start="20261006132448 +0000" stop="20261006134910 +0000" channel="1">
+  <programme start="20261003012530 -0300" stop="20261003014814 -0300" channel="2">
     <title lang="en">Sailor Moon</title>
     <title lang="en">Sailor Moon</title>
-    <sub-title lang="en">Star Struck, Bad Luck</sub-title>
-    <desc lang="en">A new enemy called the Death Busters appears, an organization whose members aim to get their hands on the talismans that can only be found in pure-hearted humans. If they succeed, they will be able to obtain the Holy Grail and use it to take over the entire world.</desc>
+    <sub-title lang="en">Final Battle</sub-title>
+    <desc lang="en">The Scouts desperately struggle to vanquish the ultimate evil of Wiseman, as well as try to restore the brainwashed Rini back to her old self again.</desc>
     <credits>
       <writer>Susan Roman</writer>
       <writer>Jill Frappier</writer>
@@ -4520,12 +5010,12 @@
       <producer>DIC Entertainment</producer>
       <producer>Optimum Productions</producer>
     </credits>
-    <date>20000612</date>
+    <date>19981221</date>
     <category lang="en">Animation</category>
     <category lang="en">Family</category>
     <category lang="en">Fantasy</category>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"></icon>
-    <episode-num system="xmltv_ns">2.0.0/1</episode-num>
+    <episode-num system="xmltv_ns">1.40.0/1</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
@@ -4534,11 +5024,11 @@
     </star-rating>
     <image>https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif</image>
   </programme>
-  <programme start="20261006134910 +0000" stop="20261006141236 +0000" channel="1">
+  <programme start="20261003014814 -0300" stop="20261003021210 -0300" channel="2">
     <title lang="en">Dragon Ball Z</title>
     <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">Arrival of the Ginyu Force</sub-title>
-    <desc lang="en">Guru releases Gohan&#39;s potential and after sensing the Ginyu Force, Vegeta forges an alliance with Gohan and Krillin. Meanwhile, Goku finishes his training and prepares for his arrival on Namek.</desc>
+    <sub-title lang="en">A Heavy Burden</sub-title>
+    <desc lang="en">Goku, still in the magnetic storm, attempts to save himself before he is crushed by the gravity; Vegeta and Zarbon fight a rematch as Krillin and Bulma watch in fear; Gohan flies back with the Dragon Ball he located.</desc>
     <credits>
       <writer>Doc Harris</writer>
       <writer>Christopher Sabat</writer>
@@ -4547,12 +5037,12 @@
       <producer>Toei Animation</producer>
       <producer>Toei Company</producer>
     </credits>
-    <date>19980207</date>
+    <date>19971108</date>
     <category lang="en">Animation</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"></icon>
-    <episode-num system="xmltv_ns">1.21.0/1</episode-num>
+    <episode-num system="xmltv_ns">1.17.0/1</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -4561,11 +5051,11 @@
     </star-rating>
     <image>https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif</image>
   </programme>
-  <programme start="20261006141236 +0000" stop="20261006143624 +0000" channel="1">
+  <programme start="20261003021210 -0300" stop="20261003023624 -0300" channel="2">
     <title lang="en">Dragon Ball Z</title>
     <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">Elite Fighters of the Universe... The Ginyu Force</sub-title>
-    <desc lang="en">Frieza orders the Ginyu Force to capture Vegeta, reclaim the Dragon Balls, and eliminate Gohan and Krillin; Goku prepares as his ship is on its approach for Namek; Vegeta, Krillin, and Gohan are confronted by the Ginyu Force.</desc>
+    <sub-title lang="en">Immortality Denied</sub-title>
+    <desc lang="en">Due to his increased strength, Vegeta is able to defeat Zarbon and takes the Dragon Ball from Krillin; the Ginyu Force is launched; Goku continues training at 100 times normal gravity; Gohan has a run-in with Vegeta.</desc>
     <credits>
       <writer>Doc Harris</writer>
       <writer>Christopher Sabat</writer>
@@ -4574,12 +5064,12 @@
       <producer>Toei Animation</producer>
       <producer>Toei Company</producer>
     </credits>
-    <date>19980214</date>
+    <date>19971115</date>
     <category lang="en">Animation</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"></icon>
-    <episode-num system="xmltv_ns">1.22.0/1</episode-num>
+    <episode-num system="xmltv_ns">1.18.0/1</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -4588,11 +5078,11 @@
     </star-rating>
     <image>https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif</image>
   </programme>
-  <programme start="20261006143624 +0000" stop="20261006150113 +0000" channel="1">
+  <programme start="20261003023624 -0300" stop="20261003030400 -0300" channel="2">
     <title lang="en">Gundam Wing</title>
     <title lang="en">Mobile Suit Gundam Wing</title>
-    <sub-title lang="en">Surechigau Unmei</sub-title>
-    <desc lang="en">A recap episode from the point of view of Treize and Lady Une. At the conclusion of the episode, Treize&#39;s new creation is partly revealed: the Gundam Epyon.</desc>
+    <sub-title lang="en">Shori to Haiboku no Kiseki</sub-title>
+    <desc lang="en">A recap episode from the point of view of Relena and Heero.</desc>
     <credits>
       <writer>Hikaru Midorikawa</writer>
       <writer>Toshihiko Seki</writer>
@@ -4601,12 +5091,12 @@
       <producer>Sunrise</producer>
       <producer>TV Asahi</producer>
     </credits>
-    <date>20000412</date>
+    <date>20000411</date>
     <category lang="en">Animation</category>
     <category lang="en">Action</category>
     <category lang="en">Drama</category>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"></icon>
-    <episode-num system="xmltv_ns">0.27.0/1</episode-num>
+    <episode-num system="xmltv_ns">0.26.0/1</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -4615,11 +5105,11 @@
     </star-rating>
     <image>https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif</image>
   </programme>
-  <programme start="20261006150113 +0000" stop="20261006151431 +0000" channel="1">
+  <programme start="20261003030400 -0300" stop="20261003031816 -0300" channel="2">
     <title lang="en">Space Ghost Coast to Coast</title>
     <title lang="en">Space Ghost Coast to Coast</title>
-    <sub-title lang="en">Idlewild South</sub-title>
-    <desc lang="en">Space Ghost becomes profoundly inebriated after drinking some &#39;tallboys&#39;, derailing his interview with &#34;Survivor&#34; host Jeff Probst.</desc>
+    <sub-title lang="en">In Memory of Elizabeth Reed</sub-title>
+    <desc lang="en">Space Ghost&#39;s interview with William Shatner is cut short when he is called into action to take part in an epic battle with--wait for it--the HVAC repairmen working on Zorak&#39;s air conditioner.</desc>
     <credits>
       <writer>Mike Lazzo</writer>
       <writer>Khaki Jones</writer>
@@ -4630,22 +5120,22 @@
       <producer>Big Deal Cartoons</producer>
       <producer>Cartoon Network Studios</producer>
     </credits>
-    <date>20031213</date>
+    <date>20031207</date>
     <category lang="en">Animation</category>
     <category lang="en">Comedy</category>
     <category lang="en">SciFi</category>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif"></icon>
-    <episode-num system="xmltv_ns">7.4.0/1</episode-num>
+    <episode-num system="xmltv_ns">7.3.0/1</episode-num>
     <star-rating system="imdb">
       <value>8/10</value>
     </star-rating>
     <image>https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif</image>
   </programme>
-  <programme start="20261006151431 +0000" stop="20261006153904 +0000" channel="1">
+  <programme start="20261003031816 -0300" stop="20261003034411 -0300" channel="2">
     <title lang="en">Home Movies</title>
     <title lang="en">Home Movies</title>
-    <sub-title lang="en">Therapy</sub-title>
-    <desc lang="en">Brendon, Andrew, and Linda go to therapy.</desc>
+    <sub-title lang="en">Dad</sub-title>
+    <desc lang="en">Brendon meets his father and his father&#39;s annoying girlfriend. A disabled child joins McGuirk&#39;s soccer class.</desc>
     <credits>
       <writer>Loren Bouchard</writer>
       <writer>Brendon Small</writer>
@@ -4656,12 +5146,12 @@
       <producer>Burns &amp; Burns Productions</producer>
       <producer>Cartoon Network</producer>
     </credits>
-    <date>20020224</date>
+    <date>20020217</date>
     <category lang="en">Animation</category>
     <category lang="en">Comedy</category>
     <category lang="en">SciFi</category>
     <icon src="https://www.toonamiaftermath.com/assets/imgur/VDMuEdj.gif"></icon>
-    <episode-num system="xmltv_ns">1.7.0/1</episode-num>
+    <episode-num system="xmltv_ns">1.6.0/1</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
@@ -4670,477 +5160,413 @@
     </star-rating>
     <image>https://www.toonamiaftermath.com/assets/imgur/VDMuEdj.gif</image>
   </programme>
-  <programme start="20261006153904 +0000" stop="20261006160030 +0000" channel="1">
-    <title lang="en">Dr. Katz</title>
-    <title lang="en">Dr. Katz, Professional Therapist</title>
-    <sub-title lang="en">Blind Date</sub-title>
-    <desc lang="en">Julie sets Dr. Katz up on a blind date with Beth, a woman from the Midwest. Eventually, Beth cancels through Julie. Meanwhile, Ben wants to have a tenth anniversary dinner with Dr. Katz, with the anniversary being ten years since Katz and his wife split up.</desc>
+  <programme start="20261003034411 -0300" stop="20261003040130 -0300" channel="2">
+    <title lang="en">Brak Show</title>
+    <title lang="en">The Brak Show</title>
+    <sub-title lang="en">Brakstreet: Men in the Band</sub-title>
+    <desc lang="en">Brak consults the eccentric advice of a motley cast of characters in his effort to master a distinctive lyrical style capable of winning an upcoming rap battle.</desc>
     <credits>
-      <writer>Jonathan Katz</writer>
-      <writer>Tom Snyder</writer>
-      <writer>Jonathan Katz</writer>
-      <writer>H. Jon Benjamin</writer>
-      <writer>Laura Silverman</writer>
-      <producer>HBO Downtown Productions</producer>
-      <producer>Popular Arts Entertainment</producer>
-      <producer>Tom Snyder Productions</producer>
+      <writer>Jim Fortier</writer>
+      <writer>Andy Merrill</writer>
+      <writer>Pete Smith</writer>
+      <writer>Andy Merrill</writer>
+      <writer>C. Martin Croker</writer>
+      <writer>George Lowe</writer>
+      <producer>Primal Screen</producer>
+      <producer>Williams Street</producer>
     </credits>
-    <date>19961013</date>
+    <date>20021103</date>
     <category lang="en">Animation</category>
     <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/ILKvVhz.gif"></icon>
-    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
+    <category lang="en">Family</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/uGF2Olk.gif"></icon>
+    <episode-num system="xmltv_ns">1.4.0/1</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
     <star-rating system="imdb">
-      <value>7.5/10</value>
+      <value>7.2/10</value>
     </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/ILKvVhz.gif</image>
+    <image>https://www.toonamiaftermath.com/assets/imgur/uGF2Olk.gif</image>
   </programme>
-  <programme start="20261006160030 +0000" stop="20261006162205 +0000" channel="1">
-    <title lang="en">X-Men</title>
-    <title lang="en">X-Men</title>
-    <sub-title lang="en">One Man&#39;s Worth: Part 2</sub-title>
-    <desc lang="en">Failing to stop the assassination of Xavier, Bishop, Shard, Storm and Wolverine travel forward to the future.</desc>
+  <programme start="20261003040130 -0300" stop="20261003042625 -0300" channel="2">
+    <title lang="en">Full Metal Alchemist</title>
+    <title lang="en">Fullmetal Alchemist</title>
+    <sub-title lang="en">Hohenheim of Light</sub-title>
+    <desc lang="en">With the mastermind behind the seven sins organizing a plan to capture the boys as well, Ed and Al must convince Mustang&#39;s faction that the Fuhrer is not what he seems. The strange reappearance of their father only complicates things further, as we learn he has his own score to settle...one that goes to root of this entire conspiracy.</desc>
     <credits>
-      <writer>Mark Edward Edens</writer>
-      <writer>Sidney Iwanter</writer>
-      <writer>Eric Lewald</writer>
-      <writer>1 more credit</writer>
-      <writer>Cedric Smith</writer>
-      <writer>Cathal J. Dodd</writer>
-      <writer>Lenore Zann</writer>
-      <producer>Genesis Entertainment</producer>
-      <producer>Graz Entertainment</producer>
-      <producer>Marvel Enterprises</producer>
+      <writer>Vic Mignogna</writer>
+      <writer>Aaron Dismuke</writer>
+      <writer>Romi Pak</writer>
+      <producer>Aniplex</producer>
+      <producer>Bones</producer>
+      <producer>Mainichi Broadcasting System (MBS)</producer>
     </credits>
-    <date>19950916</date>
+    <date>20060128</date>
     <category lang="en">Animation</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/ZSZ0x1m.gif"></icon>
-    <episode-num system="xmltv_ns">3.1.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.5/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/ZSZ0x1m.gif</image>
-  </programme>
-  <programme start="20261006162205 +0000" stop="20261006164708 +0000" channel="1">
-    <title lang="en">Mega Man</title>
-    <title lang="en">Mega Man</title>
-    <sub-title lang="en">Brain Bots</sub-title>
-    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
-    <credits>
-      <writer>Keiji Inafune</writer>
-      <writer>Akira Kitamura</writer>
-      <writer>Ian James Corlett</writer>
-      <writer>Scott McNeil</writer>
-      <writer>Jim Byrnes</writer>
-      <producer>Capcom Entertainment</producer>
-      <producer>Ruby-Spears Productions</producer>
-    </credits>
-    <date>19951112</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Family</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/vhvmTlP.gif"></icon>
-    <episode-num system="xmltv_ns">1.9.0/1</episode-num>
-    <star-rating system="imdb">
-      <value>6.8/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/vhvmTlP.gif</image>
-  </programme>
-  <programme start="20261006164708 +0000" stop="20261006170909 +0000" channel="1">
-    <title lang="en">Men in Black: The Series</title>
-    <title lang="en">Men in Black: The Series</title>
-    <sub-title lang="en">The Baby Kay Syndrome</sub-title>
-    <desc lang="en">The new leader of a terrorist race of aliens called Stellairians wants to embark on a new era of peace and comes to Earth for negotiations ... bringing along his spoiled teenage daughter. The Stellairians age rapidly in Earth&#39;s atmosphere - about 100 years in a day - so Kima is reminded to take her hypo-spray, located on a chain around her neck. Kay and Jay are assigned baby-sitting duty, and take Kima to the mall - where a group of Frostifarian Kidnappers (who had their icy planet scorched by Skon) create a diversion and nab Kima. During the chase, her hypo-spray ...</desc>
-    <credits>
-      <writer>Duane Capizzi</writer>
-      <writer>Jeff Kline</writer>
-      <writer>Richard Raynis</writer>
-      <writer>Keith Diamond</writer>
-      <writer>Charles Napier</writer>
-      <writer>Patrick Pinney</writer>
-      <producer>Amblin Entertainment</producer>
-      <producer>Columbia TriStar Television</producer>
-      <producer>Adelaide Productions</producer>
-    </credits>
-    <date>20000325</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/M2q5NRC.gif"></icon>
-    <episode-num system="xmltv_ns">2.11.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>6.8/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/M2q5NRC.gif</image>
-  </programme>
-  <programme start="20261006170909 +0000" stop="20261006173339 +0000" channel="1">
-    <title lang="en">Street Fighter II: V</title>
-    <title lang="en">Street Fighter II: V</title>
-    <sub-title lang="en">Fight to the Finish: Round 2</sub-title>
-    <desc lang="en">The 3 fights continue. During the Ryu and Ken fight, Ken realizes that Ryu is not going to stop until he is dead, so he must fight back. In the Guile and Zangief fight, Zangief begins to gain the upper hand but a quick retaliation from Guile is what leads Guile to victory over Zangief. During the Cammy and Fei-Long fight, that fight continues, Fei-Long will not stop. Meanwhile, Nash finds where M.Bison is hiding, he goes in and tries to shoot at Bison, but Bison somehow deflects it. Then, Bison uses his powers again to kill of Nash. Meanwhile, during the Ryu and Ken ...</desc>
-    <credits>
-      <writer>Tesshô Genda</writer>
-      <writer>Skip Stellrecht</writer>
-      <writer>Kirk Thornton</writer>
-    </credits>
-    <date>19950929</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/mQiuwRJ.gif"></icon>
-    <episode-num system="xmltv_ns">0.25.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.7/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/mQiuwRJ.gif</image>
-  </programme>
-  <programme start="20261006173339 +0000" stop="20261006175530 +0000" channel="1">
-    <title lang="en">Spider-Man</title>
-    <title lang="en">Spider-Man</title>
-    <sub-title lang="en">Six Forgotten Warriors Chapter 4: The Six Fight Again</sub-title>
-    <desc lang="en">Five of the Forgotten Six reunite and team up with Spider-Man to stop the Kingpin from activating the Dooms Day Weapon. But during the process of activating it, Captain America and Red Skull are returned.</desc>
-    <credits>
-      <writer>Stan Lee</writer>
-      <writer>Steve Ditko</writer>
-      <writer>Christopher Daniel Barnes</writer>
-      <writer>Sara Ballantine</writer>
-      <writer>Edward Asner</writer>
-      <producer>New World Entertainment Films</producer>
-      <producer>Genesis Entertainment</producer>
-      <producer>Marvel Enterprises</producer>
-    </credits>
-    <date>19971010</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Family</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/hprZiwl.gif"></icon>
-    <episode-num system="xmltv_ns">4.4.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.3/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/hprZiwl.gif</image>
-  </programme>
-  <programme start="20261006175530 +0000" stop="20261006181818 +0000" channel="1">
-    <title lang="en">Silverhawks</title>
-    <title lang="en">Silverhawks</title>
-    <sub-title lang="en">Battle Cruiser</sub-title>
-    <desc lang="en">Mon*star plots to go to Chicago and take over the Earth mob.</desc>
-    <credits>
-      <writer>Bob McFadden</writer>
-      <writer>Earl Hammond</writer>
-      <writer>Larry Kenney</writer>
-      <producer>Rankin/Bass Productions</producer>
-      <producer>Telepictures Corporation</producer>
-    </credits>
-    <date>19861125</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Family</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/dpR9jOG.gif"></icon>
-    <episode-num system="xmltv_ns">0.56.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.3/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/dpR9jOG.gif</image>
-  </programme>
-  <programme start="20261006181818 +0000" stop="20261006184314 +0000" channel="1">
-    <title lang="en">Saint Seiya</title>
-    <title lang="en">Seinto Seiya</title>
-    <sub-title lang="en">Seiya ga ishi ni! Medusa no tate</sub-title>
-    <desc lang="en">The saints are under attack from Shaina, Babel and the Spartan. Will they be able to overcome their biggest challenge to date? Or will they be turned to stone?</desc>
-    <credits>
-      <writer>Hideyuki Tanaka</writer>
-      <writer>Tôru Furuya</writer>
-      <writer>Ryô Horikawa</writer>
-      <producer>Shueisha</producer>
-      <producer>Toei Animation</producer>
-    </credits>
-    <date>19870502</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/6rmD2nL.gif"></icon>
-    <episode-num system="xmltv_ns">0.26.0/1</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/3T6NatN.gif"></icon>
+    <episode-num system="xmltv_ns">0.43.0/1</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
     <star-rating system="imdb">
       <value>8.6/10</value>
     </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/6rmD2nL.gif</image>
+    <image>https://www.toonamiaftermath.com/assets/imgur/3T6NatN.gif</image>
   </programme>
-  <programme start="20261006184314 +0000" stop="20261006190802 +0000" channel="1">
-    <title lang="en">Mobile Suit Gundam</title>
-    <title lang="en">Mobile Suit Gundam</title>
-    <sub-title lang="en">The Glory of Solomon</sub-title>
-    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
+  <programme start="20261003042625 -0300" stop="20261003045037 -0300" channel="2">
+    <title lang="en">Yu Yu Hakusho: Ghost Files</title>
+    <title lang="en">Yu Yu Hakusho: Ghost Files</title>
+    <sub-title lang="en">Shinobiyoru Dokuta no Ma no Te</sub-title>
+    <desc lang="en">Inside the hospital, Yusuke&#39;s group enters the territory of another psychic. This time it&#39;s definitely that of a major unfriendly, one who&#39;s out to infect everyone with a killer virus, but that isn&#39;t his only sick trick.</desc>
     <credits>
-      <writer>Yoshiyuki Tomino</writer>
-      <writer>Hajime Yatate</writer>
-      <writer>Tôru Furuya</writer>
-      <writer>Alaina Burnett</writer>
-      <writer>Chris Kalhoon</writer>
-      <producer>Sotsu Agency</producer>
-      <producer>Sunrise</producer>
+      <writer>Yoshihiro Togashi</writer>
+      <writer>Nozomu Sasaki</writer>
+      <writer>Justin Cook</writer>
+      <writer>Christopher Sabat</writer>
+      <producer>Pierrot</producer>
+      <producer>Yomiko Advertising</producer>
+      <producer>Shueisha</producer>
     </credits>
-    <date>19791201</date>
+    <date>20040911</date>
     <category lang="en">Animation</category>
     <category lang="en">Action</category>
-    <category lang="en">Drama</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/EXLbEng.gif"></icon>
-    <episode-num system="xmltv_ns">0.34.0/1</episode-num>
+    <category lang="en">Adventure</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/zLgdAie.gif"></icon>
+    <episode-num system="xmltv_ns">0.72.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>8.4/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/zLgdAie.gif</image>
+  </programme>
+  <programme start="20261003045037 -0300" stop="20261003051253 -0300" channel="2">
+    <title lang="en">Rurouni Kenshin</title>
+    <title lang="en">Rurouni Kenshin: Wandering Samurai</title>
+    <sub-title lang="en">As If to Fly: Stop the Launch of the Battleship Purgatory!</sub-title>
+    <desc lang="en">Kenshin, Sanosuke and Saito go to Osaka to stop Shishio and his men.</desc>
+    <credits>
+      <writer>Mayo Suzukaze</writer>
+      <writer>Richard Cansino</writer>
+      <writer>Dorothy Elias-Fahn</writer>
+      <producer>Aniplex</producer>
+      <producer>Aniplex</producer>
+      <producer>Fuji Television Network</producer>
+    </credits>
+    <date>19970416</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/litCtMD.gif"></icon>
+    <episode-num system="xmltv_ns">1.17.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>8.5/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/litCtMD.gif</image>
+  </programme>
+  <programme start="20261003051253 -0300" stop="20261003053608 -0300" channel="2">
+    <title lang="en">Lupin the 3rd</title>
+    <title lang="en">Lupin the 3rd</title>
+    <sub-title lang="en">Tutankhamen&#39;s 3000 Year Curse</sub-title>
+    <desc lang="en">In Egypt, Lupin steals the death mask of King Tutankhamen. As soon as he starts messing around by wearing it, Lupin ends up being cursed and thinks he&#39;s the late ruler of Egypt. Jigen, Goemon, and Fujiko must find a way to cure Lupin.</desc>
+    <credits>
+      <writer>Monkey Punch</writer>
+      <writer>Yasuo Yamada</writer>
+      <writer>Kiyoshi Kobayashi</writer>
+      <writer>Gorô Naya</writer>
+      <producer>TMS Entertainment</producer>
+    </credits>
+    <date>19771114</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/ttnXgu9.gif"></icon>
+    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-PG</value>
+    </rating>
     <star-rating system="imdb">
       <value>8.1/10</value>
     </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/EXLbEng.gif</image>
+    <image>https://www.toonamiaftermath.com/assets/imgur/ttnXgu9.gif</image>
   </programme>
-  <programme start="20261006190802 +0000" stop="20261006193305 +0000" channel="1">
-    <title lang="en">Robotech</title>
-    <title lang="en">Robotech</title>
-    <sub-title lang="en">Mind Games</sub-title>
-    <desc lang="en">A battle rages between the Robotech Masters and the entire interstellar fleet of the United Earth Government! It is a crucial battle, which could decide the fate of the two civilizations. Utilizing advanced weaponry, and fighting with renewed vigor, the stage is set for a battle royale.</desc>
+  <programme start="20261003053608 -0300" stop="20261003060000 -0300" channel="2">
+    <title lang="en">Ranma 1/2</title>
+    <title lang="en">Ranma ½</title>
+    <sub-title lang="en">Pî pî P-chan Roku na monjanee</sub-title>
+    <desc lang="en">Ranma proclaims, &#34;Akane is my fiancée!&#34; during the skate battle match. The pair Azusa and Mikado showcase their special technique: the unbeatable couple cleaver, &#34;The Break-Up Merry-Go-Round&#34;!</desc>
     <credits>
-      <writer>Carl Macek</writer>
-      <writer>Robert Axelrod</writer>
-      <writer>Bill Capizzi</writer>
-      <writer>Frank Catalano</writer>
-      <producer>ARTMIC Studios</producer>
-      <producer>Anime Friend</producer>
-      <producer>Anime Friend</producer>
+      <writer>Rumiko Takahashi</writer>
+      <writer>Kappei Yamaguchi</writer>
+      <writer>Megumi Hayashibara</writer>
+      <writer>Noriko Hidaka</writer>
+      <producer>Kitty Animation</producer>
+      <producer>Kitty Films</producer>
     </credits>
-    <date>19850516</date>
+    <date>19890701</date>
     <category lang="en">Animation</category>
     <category lang="en">Action</category>
-    <category lang="en">Music</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/d2iQJ5T.gif"></icon>
-    <episode-num system="xmltv_ns">1.17.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/GZNzBTy.gif"></icon>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
     <star-rating system="imdb">
-      <value>8.6/10</value>
+      <value>7.9/10</value>
     </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/d2iQJ5T.gif</image>
+    <image>https://www.toonamiaftermath.com/assets/imgur/GZNzBTy.gif</image>
   </programme>
-  <programme start="20261006193305 +0000" stop="20261006200000 +0000" channel="1">
-    <title lang="en">Reboot</title>
-    <title lang="en">ReBoot</title>
-    <sub-title lang="en">Number 7</sub-title>
-    <desc lang="en">Matrix is ready to give up his search for Mainframe when it seems he&#39;s found it in the form of a game. When AndrAla and Matrix reboot, they take the form of Megabyte and Hexadecimal. The goal of the game: find number one.</desc>
-    <credits>
-      <writer>Gavin Blair</writer>
-      <writer>John Grace</writer>
-      <writer>Philip Mitchell</writer>
-      <writer>1 more credit</writer>
-      <writer>Michael Donovan</writer>
-      <writer>Kathleen Barr</writer>
-      <writer>Garry Chalk</writer>
-      <producer>Alliance Communications Corporation</producer>
-      <producer>BLT Productions</producer>
-      <producer>Claster Television Productions</producer>
-    </credits>
-    <date>19971001</date>
-    <category lang="en">Action</category>
-    <category lang="en">Animation</category>
-    <category lang="en">SciFi</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/CFaaZSh.gif"></icon>
-    <episode-num system="xmltv_ns">2.6.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.8/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/CFaaZSh.gif</image>
-  </programme>
-  <programme start="20261006200000 +0000" stop="20261006202945 +0000" channel="1">
-    <title lang="en">Pokemon</title>
-    <title lang="en">Pokémon</title>
-    <sub-title lang="en">Challenge of the Samurai Boy!</sub-title>
-    <desc lang="en">While still traveling through the Viridian Forest, Ash and Misty find a Pokemon trainer named Samurai, who has been challenging all of the trainers from Pallet Town.</desc>
-    <credits>
-      <writer>Junichi Masuda</writer>
-      <writer>Ken Sugimori</writer>
-      <writer>Satoshi Tajiri</writer>
-      <writer>Veronica Taylor</writer>
-      <writer>Rachael Lillis</writer>
-      <writer>Eric Stuart</writer>
-      <producer>Pokémon USA</producer>
-      <producer>4 Kids Entertainment</producer>
-      <producer>Creatures</producer>
-    </credits>
-    <date>19980911</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/VfdN6pP.gif"></icon>
-    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.4/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/VfdN6pP.gif</image>
-  </programme>
-  <programme start="20261006202945 +0000" stop="20261006210130 +0000" channel="1">
-    <title lang="en">Batman: The Animated Series</title>
-    <title lang="en">Batman: The Animated Series</title>
-    <sub-title lang="en">Two-Face Part II</sub-title>
-    <desc lang="en">Two-Face begins robbing Rupert Thorne&#39;s business in revenge while both the gangster and Batman hunt the dichotomous supervillain for their own reasons.</desc>
-    <credits>
-      <writer>Bob Kane</writer>
-      <writer>Eric Radomski</writer>
-      <writer>Bruce Timm</writer>
-      <writer>2 more credits</writer>
-      <writer>Kevin Conroy</writer>
-      <writer>Loren Lester</writer>
-      <writer>Efrem Zimbalist Jr.</writer>
-      <producer>Warner Bros. Animation</producer>
-      <producer>Warner Bros. Television</producer>
-    </credits>
-    <date>19920928</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/nygJi6C.gif"></icon>
-    <episode-num system="xmltv_ns">0.17.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.9/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/nygJi6C.gif</image>
-  </programme>
-  <programme start="20261006210130 +0000" stop="20261006212526 +0000" channel="1">
-    <title lang="en">Dragon Ball</title>
-    <title lang="en">Dragon Ball</title>
-    <sub-title lang="en">Chichi no hanayome shugyô no okage desu</sub-title>
+  <programme start="20261003060000 -0300" stop="20261003063051 -0300" channel="2">
+    <title lang="en">Record of Lodoss War: Chronicles of the Heroic Knight</title>
+    <title lang="en">Lodoss to Senki: Eiyuu kishi den</title>
+    <sub-title lang="en">Akumu... Shinobiyoru Ankoku no Chikara</sub-title>
     <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
     <credits>
-      <writer>Masako Nozawa</writer>
-      <writer>Jôji Yanami</writer>
-      <writer>Hiromi Tsuru</writer>
-      <producer>The Bird Studio</producer>
-      <producer>Toei Animation</producer>
-      <producer>Toei Company</producer>
+      <writer>Crispin Freeman</writer>
+      <writer>Bill Timoney</writer>
+      <writer>Lisa Ortiz</writer>
     </credits>
-    <date>19890405</date>
+    <date>19980624</date>
     <category lang="en">Animation</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"></icon>
-    <episode-num system="xmltv_ns">0.150.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/yskXuxs.gif"></icon>
+    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
     <star-rating system="imdb">
-      <value>8.5/10</value>
+      <value>7.5/10</value>
     </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif</image>
+    <image>https://www.toonamiaftermath.com/assets/imgur/yskXuxs.gif</image>
   </programme>
-  <programme start="20261006212526 +0000" stop="20261006215003 +0000" channel="1">
-    <title lang="en">Sailor Moon</title>
-    <title lang="en">Sailor Moon</title>
-    <sub-title lang="en">Crystal Clear Again</sub-title>
-    <desc lang="en">A young girl is attacked by a Daimon, but Serena is no longer able to transform into Sailor Moon, and the overpowered Sailor Team must one again rely on the mysterious new Sailor Scouts.</desc>
+  <programme start="20261003063051 -0300" stop="20261003064816 -0300" channel="2">
+    <title lang="en">Aqua Teen Hunger Force</title>
+    <title lang="en">Aqua Teen Hunger Force</title>
+    <sub-title lang="en">Carl Wash</sub-title>
+    <desc lang="en">Two floating brains (calling themselves Carl) hire Meatwad to advertise their dilapidated car wash. He is unable to attract customers, so with Shake&#39;s help, they get Carl to take his car in. The brains wreck his car, gas him, and remove his brain.</desc>
     <credits>
-      <writer>Susan Roman</writer>
-      <writer>Jill Frappier</writer>
-      <writer>Katie Griffin</writer>
-      <producer>Cloverway International (CWI)</producer>
-      <producer>DIC Entertainment</producer>
-      <producer>Optimum Productions</producer>
+      <writer>Dave Willis</writer>
+      <writer>Matt Maiellaro</writer>
+      <writer>Dave Willis</writer>
+      <writer>Carey Means</writer>
+      <writer>Dana Snyder</writer>
+      <producer>Awesome Incorporated</producer>
+      <producer>Cartoon Network</producer>
+      <producer>Radical Axis</producer>
     </credits>
-    <date>20000613</date>
+    <date>20061222</date>
     <category lang="en">Animation</category>
-    <category lang="en">Family</category>
-    <category lang="en">Fantasy</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"></icon>
-    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
+    <category lang="en">Comedy</category>
+    <category lang="en">SciFi</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/hYYjVXJ.gif"></icon>
+    <episode-num system="xmltv_ns">3.12.0/1</episode-num>
     <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
     <star-rating system="imdb">
       <value>7.7/10</value>
     </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif</image>
+    <image>https://www.toonamiaftermath.com/assets/imgur/hYYjVXJ.gif</image>
   </programme>
-  <programme start="20261006215003 +0000" stop="20261006221349 +0000" channel="1">
-    <title lang="en">Dragon Ball Z</title>
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">Time Tricks and Body Binds</sub-title>
-    <desc lang="en">Krillin and Gohan attempt to survive against Guldo&#39;s psychic abilities and find themselves incapacitated until Vegeta intervenes; Piccolo senses that Gohan is in danger.</desc>
+  <programme start="20261003064816 -0300" stop="20261003071658 -0300" channel="2">
+    <title lang="en">Android Kikaider</title>
+    <title lang="en">Android Kikaider: The Animation</title>
+    <sub-title lang="en">Hakaima</sub-title>
+    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
     <credits>
-      <writer>Doc Harris</writer>
-      <writer>Christopher Sabat</writer>
-      <writer>Scott McNeil</writer>
-      <producer>Ocean Group</producer>
-      <producer>Toei Animation</producer>
-      <producer>Toei Company</producer>
+      <writer>Tomokazu Seki</writer>
+      <writer>Yui Horie</writer>
+      <writer>Yumiko Kobayashi</writer>
+      <producer>Bandai</producer>
+      <producer>Radix</producer>
+      <producer>Studio OX</producer>
     </credits>
-    <date>19980214</date>
+    <date>20001225</date>
     <category lang="en">Animation</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"></icon>
-    <episode-num system="xmltv_ns">1.23.0/1</episode-num>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/qPWDxEX.gif"></icon>
+    <episode-num system="xmltv_ns">0.10.0/1</episode-num>
     <rating system="VCHIP">
       <value>TV-PG</value>
     </rating>
     <star-rating system="imdb">
-      <value>8.7/10</value>
+      <value>7.3/10</value>
     </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif</image>
+    <image>https://www.toonamiaftermath.com/assets/imgur/qPWDxEX.gif</image>
   </programme>
-  <programme start="20261006221349 +0000" channel="1">
-    <title lang="en">Dragon Ball Z</title>
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">No Refuge from Recoome</sub-title>
-    <desc lang="en">The battle with Guldo may be over, but the real nightmare is just beginning! Recoome, the most massive member of the Ginyu Force, is ready to fight, and even the mighty Vegeta&#39;s attacks have no effect on this monstrous foe!</desc>
+  <programme start="20261003071658 -0300" stop="20261003073453 -0300" channel="2">
+    <title lang="en">Cromartie High School</title>
+    <title lang="en">Sakigake!! Kuromati Kôkô</title>
+    <sub-title lang="en">I Used to be a Bad Boy Bragging Contest</sub-title>
+    <desc lang="en">Introduction of the delinquents in the first day at school.</desc>
     <credits>
-      <writer>Doc Harris</writer>
-      <writer>Christopher Sabat</writer>
-      <writer>Scott McNeil</writer>
-      <producer>Ocean Group</producer>
-      <producer>Toei Animation</producer>
-      <producer>Toei Company</producer>
+      <writer>Takahiro Sakurai</writer>
+      <writer>Ben Pronsky</writer>
+      <writer>Takuma Suzuki</writer>
+      <producer>CPTA</producer>
+      <producer>Production I.G.</producer>
     </credits>
-    <date>19980518</date>
+    <date>20031003</date>
     <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"></icon>
-    <episode-num system="xmltv_ns">1.24.0/1</episode-num>
+    <category lang="en">Comedy</category>
+    <category lang="en">Music</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/4BYylmk.gif"></icon>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
     <rating system="VCHIP">
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
     <star-rating system="imdb">
-      <value>8.7/10</value>
+      <value>7.8/10</value>
     </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif</image>
+    <image>https://www.toonamiaftermath.com/assets/imgur/4BYylmk.gif</image>
+  </programme>
+  <programme start="20261003073453 -0300" stop="20261003080000 -0300" channel="2">
+    <title lang="en">Nadia: The Secret of Blue Water</title>
+    <title lang="en">Nadia: The Secret of Blue Water</title>
+    <sub-title lang="en">Girl at the Eiffel Tower</sub-title>
+    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
+    <credits>
+      <writer>Noriko Hidaka</writer>
+      <writer>Carl Domaski</writer>
+      <writer>Judson Jones</writer>
+      <producer>Corad</producer>
+      <producer>Gainax</producer>
+      <producer>NHK</producer>
+    </credits>
+    <date>19900413</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.toonamiaftermath.com/assets/imgur/n9ylocT.gif"></icon>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="imdb">
+      <value>8/10</value>
+    </star-rating>
+    <image>https://www.toonamiaftermath.com/assets/imgur/n9ylocT.gif</image>
+  </programme>
+  <programme start="20261003080000 -0300" stop="20261003081753 -0300" channel="2">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003081753 -0300" stop="20261003083542 -0300" channel="2">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003083542 -0300" stop="20261003085041 -0300" channel="2">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003085041 -0300" stop="20261003090331 -0300" channel="2">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003090331 -0300" stop="20261003091609 -0300" channel="2">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003091609 -0300" stop="20261003092830 -0300" channel="2">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003092830 -0300" stop="20261003094018 -0300" channel="2">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003094018 -0300" stop="20261003095109 -0300" channel="2">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
+  </programme>
+  <programme start="20261003095109 -0300" stop="20261003100000 -0300" channel="2">
+    <title lang="en">Rifftrax Shorts</title>
+    <title lang="en">RiffTrax: Shortstoberfest (2011)</title>
+    <sub-title lang="en"></sub-title>
+    <desc lang="en"></desc>
+    <credits></credits>
+    <category lang="en"></category>
+    <icon src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png"></icon>
+    <star-rating system="imdb">
+      <value>5.6/10</value>
+    </star-rating>
+    <image>https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/imdb_fb_logo._CB1542065250_.png</image>
   </programme>
   <programme start="20261003100000 -0300" stop="20261003101207 -0300" channel="2">
     <title lang="en">Spider-Man</title>
@@ -9512,7 +9938,7 @@
     </star-rating>
     <image>https://www.toonamiaftermath.com/assets/imgur/LXyAtiP.gif</image>
   </programme>
-  <programme start="20261006121354 -0300" stop="20261006123728 -0300" channel="2">
+  <programme start="20261006121354 -0300" channel="2">
     <title lang="en">The Powerpuff Girls</title>
     <title lang="en">The Powerpuff Girls</title>
     <sub-title lang="en">Insect Inside/Powerpuff Bluff</sub-title>
@@ -9540,772 +9966,6 @@
       <value>7.3/10</value>
     </star-rating>
     <image>https://www.toonamiaftermath.com/assets/imgur/8ULe6pE.gif</image>
-  </programme>
-  <programme start="20261006123728 -0300" stop="20261006124906 -0300" channel="2">
-    <title lang="en">Ed Edd n&#39; Eddy</title>
-    <title lang="en">Ed, Edd n Eddy</title>
-    <sub-title lang="en">Tag Yer Ed/Look Into My Eds</sub-title>
-    <desc lang="en">Look into My Eds: The Eds use a hypnotising pinwheel to control everyone in town. Tag Yer Ed: Edd plans to show Rolf and Kevin that he is tough by arranging a wrestling match.</desc>
-    <credits>
-      <writer>Danny Antonucci</writer>
-      <writer>Matt Hill</writer>
-      <writer>Sam Vincent</writer>
-      <writer>Tony Sampson</writer>
-      <producer>Cartoon Network</producer>
-      <producer>Cartoon Network Studios</producer>
-    </credits>
-    <date>19990208</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Family</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/igzgfih.gif"></icon>
-    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.5/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/igzgfih.gif</image>
-  </programme>
-  <programme start="20261006124906 -0300" stop="20261006130130 -0300" channel="2">
-    <title lang="en">I Am Weasel</title>
-    <title lang="en">I Am Weasel</title>
-    <sub-title lang="en">I Am Clichéd</sub-title>
-    <desc lang="en">The Red Guy writes an &#34;original&#34; script for a show to I.M. Weasel and I.R. Baboon that is full of cartoon clichés.</desc>
-    <credits>
-      <writer>David Feiss</writer>
-      <writer>Charlie Adler</writer>
-      <writer>Michael Dorn</writer>
-      <writer>Dee Bradley Baker</writer>
-      <producer>Cartoon Network</producer>
-      <producer>Hanna-Barbera Productions</producer>
-    </credits>
-    <date>19981208</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Family</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/b0n28MI.gif"></icon>
-    <episode-num system="xmltv_ns">3.1.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-G</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>6.7/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/b0n28MI.gif</image>
-  </programme>
-  <programme start="20261006130130 -0300" stop="20261006132448 -0300" channel="2">
-    <title lang="en">Dragon Ball</title>
-    <title lang="en">Dragon Ball</title>
-    <sub-title lang="en">Maboroshi no hikuidori</sub-title>
-    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
-    <credits>
-      <writer>Masako Nozawa</writer>
-      <writer>Jôji Yanami</writer>
-      <writer>Hiromi Tsuru</writer>
-      <producer>The Bird Studio</producer>
-      <producer>Toei Animation</producer>
-      <producer>Toei Company</producer>
-    </credits>
-    <date>19890322</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"></icon>
-    <episode-num system="xmltv_ns">0.149.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.5/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif</image>
-  </programme>
-  <programme start="20261006132448 -0300" stop="20261006134910 -0300" channel="2">
-    <title lang="en">Sailor Moon</title>
-    <title lang="en">Sailor Moon</title>
-    <sub-title lang="en">Star Struck, Bad Luck</sub-title>
-    <desc lang="en">A new enemy called the Death Busters appears, an organization whose members aim to get their hands on the talismans that can only be found in pure-hearted humans. If they succeed, they will be able to obtain the Holy Grail and use it to take over the entire world.</desc>
-    <credits>
-      <writer>Susan Roman</writer>
-      <writer>Jill Frappier</writer>
-      <writer>Katie Griffin</writer>
-      <producer>Cloverway International (CWI)</producer>
-      <producer>DIC Entertainment</producer>
-      <producer>Optimum Productions</producer>
-    </credits>
-    <date>20000612</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Family</category>
-    <category lang="en">Fantasy</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"></icon>
-    <episode-num system="xmltv_ns">2.0.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.7/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif</image>
-  </programme>
-  <programme start="20261006134910 -0300" stop="20261006141236 -0300" channel="2">
-    <title lang="en">Dragon Ball Z</title>
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">Arrival of the Ginyu Force</sub-title>
-    <desc lang="en">Guru releases Gohan&#39;s potential and after sensing the Ginyu Force, Vegeta forges an alliance with Gohan and Krillin. Meanwhile, Goku finishes his training and prepares for his arrival on Namek.</desc>
-    <credits>
-      <writer>Doc Harris</writer>
-      <writer>Christopher Sabat</writer>
-      <writer>Scott McNeil</writer>
-      <producer>Ocean Group</producer>
-      <producer>Toei Animation</producer>
-      <producer>Toei Company</producer>
-    </credits>
-    <date>19980207</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"></icon>
-    <episode-num system="xmltv_ns">1.21.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.7/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif</image>
-  </programme>
-  <programme start="20261006141236 -0300" stop="20261006143624 -0300" channel="2">
-    <title lang="en">Dragon Ball Z</title>
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">Elite Fighters of the Universe... The Ginyu Force</sub-title>
-    <desc lang="en">Frieza orders the Ginyu Force to capture Vegeta, reclaim the Dragon Balls, and eliminate Gohan and Krillin; Goku prepares as his ship is on its approach for Namek; Vegeta, Krillin, and Gohan are confronted by the Ginyu Force.</desc>
-    <credits>
-      <writer>Doc Harris</writer>
-      <writer>Christopher Sabat</writer>
-      <writer>Scott McNeil</writer>
-      <producer>Ocean Group</producer>
-      <producer>Toei Animation</producer>
-      <producer>Toei Company</producer>
-    </credits>
-    <date>19980214</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"></icon>
-    <episode-num system="xmltv_ns">1.22.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.7/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif</image>
-  </programme>
-  <programme start="20261006143624 -0300" stop="20261006150113 -0300" channel="2">
-    <title lang="en">Gundam Wing</title>
-    <title lang="en">Mobile Suit Gundam Wing</title>
-    <sub-title lang="en">Surechigau Unmei</sub-title>
-    <desc lang="en">A recap episode from the point of view of Treize and Lady Une. At the conclusion of the episode, Treize&#39;s new creation is partly revealed: the Gundam Epyon.</desc>
-    <credits>
-      <writer>Hikaru Midorikawa</writer>
-      <writer>Toshihiko Seki</writer>
-      <writer>Ryûzô Ishino</writer>
-      <producer>Sotsu Agency</producer>
-      <producer>Sunrise</producer>
-      <producer>TV Asahi</producer>
-    </credits>
-    <date>20000412</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Drama</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif"></icon>
-    <episode-num system="xmltv_ns">0.27.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.2/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/XWp96IJ.gif</image>
-  </programme>
-  <programme start="20261006150113 -0300" stop="20261006151431 -0300" channel="2">
-    <title lang="en">Space Ghost Coast to Coast</title>
-    <title lang="en">Space Ghost Coast to Coast</title>
-    <sub-title lang="en">Idlewild South</sub-title>
-    <desc lang="en">Space Ghost becomes profoundly inebriated after drinking some &#39;tallboys&#39;, derailing his interview with &#34;Survivor&#34; host Jeff Probst.</desc>
-    <credits>
-      <writer>Mike Lazzo</writer>
-      <writer>Khaki Jones</writer>
-      <writer>George Lowe</writer>
-      <writer>C. Martin Croker</writer>
-      <writer>Andy Merrill</writer>
-      <producer>Adult Swim</producer>
-      <producer>Big Deal Cartoons</producer>
-      <producer>Cartoon Network Studios</producer>
-    </credits>
-    <date>20031213</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">SciFi</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif"></icon>
-    <episode-num system="xmltv_ns">7.4.0/1</episode-num>
-    <star-rating system="imdb">
-      <value>8/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/7oi7Qxf.gif</image>
-  </programme>
-  <programme start="20261006151431 -0300" stop="20261006153904 -0300" channel="2">
-    <title lang="en">Home Movies</title>
-    <title lang="en">Home Movies</title>
-    <sub-title lang="en">Therapy</sub-title>
-    <desc lang="en">Brendon, Andrew, and Linda go to therapy.</desc>
-    <credits>
-      <writer>Loren Bouchard</writer>
-      <writer>Brendon Small</writer>
-      <writer>Brendon Small</writer>
-      <writer>H. Jon Benjamin</writer>
-      <writer>Melissa Bardin Galsky</writer>
-      <producer>Soup2Nuts</producer>
-      <producer>Burns &amp; Burns Productions</producer>
-      <producer>Cartoon Network</producer>
-    </credits>
-    <date>20020224</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">SciFi</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/VDMuEdj.gif"></icon>
-    <episode-num system="xmltv_ns">1.7.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.1/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/VDMuEdj.gif</image>
-  </programme>
-  <programme start="20261006153904 -0300" stop="20261006160030 -0300" channel="2">
-    <title lang="en">Dr. Katz</title>
-    <title lang="en">Dr. Katz, Professional Therapist</title>
-    <sub-title lang="en">Blind Date</sub-title>
-    <desc lang="en">Julie sets Dr. Katz up on a blind date with Beth, a woman from the Midwest. Eventually, Beth cancels through Julie. Meanwhile, Ben wants to have a tenth anniversary dinner with Dr. Katz, with the anniversary being ten years since Katz and his wife split up.</desc>
-    <credits>
-      <writer>Jonathan Katz</writer>
-      <writer>Tom Snyder</writer>
-      <writer>Jonathan Katz</writer>
-      <writer>H. Jon Benjamin</writer>
-      <writer>Laura Silverman</writer>
-      <producer>HBO Downtown Productions</producer>
-      <producer>Popular Arts Entertainment</producer>
-      <producer>Tom Snyder Productions</producer>
-    </credits>
-    <date>19961013</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/ILKvVhz.gif"></icon>
-    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.5/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/ILKvVhz.gif</image>
-  </programme>
-  <programme start="20261006160030 -0300" stop="20261006162205 -0300" channel="2">
-    <title lang="en">X-Men</title>
-    <title lang="en">X-Men</title>
-    <sub-title lang="en">One Man&#39;s Worth: Part 2</sub-title>
-    <desc lang="en">Failing to stop the assassination of Xavier, Bishop, Shard, Storm and Wolverine travel forward to the future.</desc>
-    <credits>
-      <writer>Mark Edward Edens</writer>
-      <writer>Sidney Iwanter</writer>
-      <writer>Eric Lewald</writer>
-      <writer>1 more credit</writer>
-      <writer>Cedric Smith</writer>
-      <writer>Cathal J. Dodd</writer>
-      <writer>Lenore Zann</writer>
-      <producer>Genesis Entertainment</producer>
-      <producer>Graz Entertainment</producer>
-      <producer>Marvel Enterprises</producer>
-    </credits>
-    <date>19950916</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/ZSZ0x1m.gif"></icon>
-    <episode-num system="xmltv_ns">3.1.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.5/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/ZSZ0x1m.gif</image>
-  </programme>
-  <programme start="20261006162205 -0300" stop="20261006164708 -0300" channel="2">
-    <title lang="en">Mega Man</title>
-    <title lang="en">Mega Man</title>
-    <sub-title lang="en">Brain Bots</sub-title>
-    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
-    <credits>
-      <writer>Keiji Inafune</writer>
-      <writer>Akira Kitamura</writer>
-      <writer>Ian James Corlett</writer>
-      <writer>Scott McNeil</writer>
-      <writer>Jim Byrnes</writer>
-      <producer>Capcom Entertainment</producer>
-      <producer>Ruby-Spears Productions</producer>
-    </credits>
-    <date>19951112</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Family</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/vhvmTlP.gif"></icon>
-    <episode-num system="xmltv_ns">1.9.0/1</episode-num>
-    <star-rating system="imdb">
-      <value>6.8/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/vhvmTlP.gif</image>
-  </programme>
-  <programme start="20261006164708 -0300" stop="20261006170909 -0300" channel="2">
-    <title lang="en">Men in Black: The Series</title>
-    <title lang="en">Men in Black: The Series</title>
-    <sub-title lang="en">The Baby Kay Syndrome</sub-title>
-    <desc lang="en">The new leader of a terrorist race of aliens called Stellairians wants to embark on a new era of peace and comes to Earth for negotiations ... bringing along his spoiled teenage daughter. The Stellairians age rapidly in Earth&#39;s atmosphere - about 100 years in a day - so Kima is reminded to take her hypo-spray, located on a chain around her neck. Kay and Jay are assigned baby-sitting duty, and take Kima to the mall - where a group of Frostifarian Kidnappers (who had their icy planet scorched by Skon) create a diversion and nab Kima. During the chase, her hypo-spray ...</desc>
-    <credits>
-      <writer>Duane Capizzi</writer>
-      <writer>Jeff Kline</writer>
-      <writer>Richard Raynis</writer>
-      <writer>Keith Diamond</writer>
-      <writer>Charles Napier</writer>
-      <writer>Patrick Pinney</writer>
-      <producer>Amblin Entertainment</producer>
-      <producer>Columbia TriStar Television</producer>
-      <producer>Adelaide Productions</producer>
-    </credits>
-    <date>20000325</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/M2q5NRC.gif"></icon>
-    <episode-num system="xmltv_ns">2.11.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>6.8/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/M2q5NRC.gif</image>
-  </programme>
-  <programme start="20261006170909 -0300" stop="20261006173339 -0300" channel="2">
-    <title lang="en">Street Fighter II: V</title>
-    <title lang="en">Street Fighter II: V</title>
-    <sub-title lang="en">Fight to the Finish: Round 2</sub-title>
-    <desc lang="en">The 3 fights continue. During the Ryu and Ken fight, Ken realizes that Ryu is not going to stop until he is dead, so he must fight back. In the Guile and Zangief fight, Zangief begins to gain the upper hand but a quick retaliation from Guile is what leads Guile to victory over Zangief. During the Cammy and Fei-Long fight, that fight continues, Fei-Long will not stop. Meanwhile, Nash finds where M.Bison is hiding, he goes in and tries to shoot at Bison, but Bison somehow deflects it. Then, Bison uses his powers again to kill of Nash. Meanwhile, during the Ryu and Ken ...</desc>
-    <credits>
-      <writer>Tesshô Genda</writer>
-      <writer>Skip Stellrecht</writer>
-      <writer>Kirk Thornton</writer>
-    </credits>
-    <date>19950929</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/mQiuwRJ.gif"></icon>
-    <episode-num system="xmltv_ns">0.25.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.7/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/mQiuwRJ.gif</image>
-  </programme>
-  <programme start="20261006173339 -0300" stop="20261006175530 -0300" channel="2">
-    <title lang="en">Spider-Man</title>
-    <title lang="en">Spider-Man</title>
-    <sub-title lang="en">Six Forgotten Warriors Chapter 4: The Six Fight Again</sub-title>
-    <desc lang="en">Five of the Forgotten Six reunite and team up with Spider-Man to stop the Kingpin from activating the Dooms Day Weapon. But during the process of activating it, Captain America and Red Skull are returned.</desc>
-    <credits>
-      <writer>Stan Lee</writer>
-      <writer>Steve Ditko</writer>
-      <writer>Christopher Daniel Barnes</writer>
-      <writer>Sara Ballantine</writer>
-      <writer>Edward Asner</writer>
-      <producer>New World Entertainment Films</producer>
-      <producer>Genesis Entertainment</producer>
-      <producer>Marvel Enterprises</producer>
-    </credits>
-    <date>19971010</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Family</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/hprZiwl.gif"></icon>
-    <episode-num system="xmltv_ns">4.4.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.3/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/hprZiwl.gif</image>
-  </programme>
-  <programme start="20261006175530 -0300" stop="20261006181818 -0300" channel="2">
-    <title lang="en">Silverhawks</title>
-    <title lang="en">Silverhawks</title>
-    <sub-title lang="en">Battle Cruiser</sub-title>
-    <desc lang="en">Mon*star plots to go to Chicago and take over the Earth mob.</desc>
-    <credits>
-      <writer>Bob McFadden</writer>
-      <writer>Earl Hammond</writer>
-      <writer>Larry Kenney</writer>
-      <producer>Rankin/Bass Productions</producer>
-      <producer>Telepictures Corporation</producer>
-    </credits>
-    <date>19861125</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Family</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/dpR9jOG.gif"></icon>
-    <episode-num system="xmltv_ns">0.56.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.3/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/dpR9jOG.gif</image>
-  </programme>
-  <programme start="20261006181818 -0300" stop="20261006184314 -0300" channel="2">
-    <title lang="en">Saint Seiya</title>
-    <title lang="en">Seinto Seiya</title>
-    <sub-title lang="en">Seiya ga ishi ni! Medusa no tate</sub-title>
-    <desc lang="en">The saints are under attack from Shaina, Babel and the Spartan. Will they be able to overcome their biggest challenge to date? Or will they be turned to stone?</desc>
-    <credits>
-      <writer>Hideyuki Tanaka</writer>
-      <writer>Tôru Furuya</writer>
-      <writer>Ryô Horikawa</writer>
-      <producer>Shueisha</producer>
-      <producer>Toei Animation</producer>
-    </credits>
-    <date>19870502</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/6rmD2nL.gif"></icon>
-    <episode-num system="xmltv_ns">0.26.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.6/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/6rmD2nL.gif</image>
-  </programme>
-  <programme start="20261006184314 -0300" stop="20261006190802 -0300" channel="2">
-    <title lang="en">Mobile Suit Gundam</title>
-    <title lang="en">Mobile Suit Gundam</title>
-    <sub-title lang="en">The Glory of Solomon</sub-title>
-    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
-    <credits>
-      <writer>Yoshiyuki Tomino</writer>
-      <writer>Hajime Yatate</writer>
-      <writer>Tôru Furuya</writer>
-      <writer>Alaina Burnett</writer>
-      <writer>Chris Kalhoon</writer>
-      <producer>Sotsu Agency</producer>
-      <producer>Sunrise</producer>
-    </credits>
-    <date>19791201</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Drama</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/EXLbEng.gif"></icon>
-    <episode-num system="xmltv_ns">0.34.0/1</episode-num>
-    <star-rating system="imdb">
-      <value>8.1/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/EXLbEng.gif</image>
-  </programme>
-  <programme start="20261006190802 -0300" stop="20261006193305 -0300" channel="2">
-    <title lang="en">Robotech</title>
-    <title lang="en">Robotech</title>
-    <sub-title lang="en">Mind Games</sub-title>
-    <desc lang="en">A battle rages between the Robotech Masters and the entire interstellar fleet of the United Earth Government! It is a crucial battle, which could decide the fate of the two civilizations. Utilizing advanced weaponry, and fighting with renewed vigor, the stage is set for a battle royale.</desc>
-    <credits>
-      <writer>Carl Macek</writer>
-      <writer>Robert Axelrod</writer>
-      <writer>Bill Capizzi</writer>
-      <writer>Frank Catalano</writer>
-      <producer>ARTMIC Studios</producer>
-      <producer>Anime Friend</producer>
-      <producer>Anime Friend</producer>
-    </credits>
-    <date>19850516</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Music</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/d2iQJ5T.gif"></icon>
-    <episode-num system="xmltv_ns">1.17.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.6/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/d2iQJ5T.gif</image>
-  </programme>
-  <programme start="20261006193305 -0300" stop="20261006200000 -0300" channel="2">
-    <title lang="en">Reboot</title>
-    <title lang="en">ReBoot</title>
-    <sub-title lang="en">Number 7</sub-title>
-    <desc lang="en">Matrix is ready to give up his search for Mainframe when it seems he&#39;s found it in the form of a game. When AndrAla and Matrix reboot, they take the form of Megabyte and Hexadecimal. The goal of the game: find number one.</desc>
-    <credits>
-      <writer>Gavin Blair</writer>
-      <writer>John Grace</writer>
-      <writer>Philip Mitchell</writer>
-      <writer>1 more credit</writer>
-      <writer>Michael Donovan</writer>
-      <writer>Kathleen Barr</writer>
-      <writer>Garry Chalk</writer>
-      <producer>Alliance Communications Corporation</producer>
-      <producer>BLT Productions</producer>
-      <producer>Claster Television Productions</producer>
-    </credits>
-    <date>19971001</date>
-    <category lang="en">Action</category>
-    <category lang="en">Animation</category>
-    <category lang="en">SciFi</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/CFaaZSh.gif"></icon>
-    <episode-num system="xmltv_ns">2.6.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.8/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/CFaaZSh.gif</image>
-  </programme>
-  <programme start="20261006200000 -0300" stop="20261006202945 -0300" channel="2">
-    <title lang="en">Pokemon</title>
-    <title lang="en">Pokémon</title>
-    <sub-title lang="en">Challenge of the Samurai Boy!</sub-title>
-    <desc lang="en">While still traveling through the Viridian Forest, Ash and Misty find a Pokemon trainer named Samurai, who has been challenging all of the trainers from Pallet Town.</desc>
-    <credits>
-      <writer>Junichi Masuda</writer>
-      <writer>Ken Sugimori</writer>
-      <writer>Satoshi Tajiri</writer>
-      <writer>Veronica Taylor</writer>
-      <writer>Rachael Lillis</writer>
-      <writer>Eric Stuart</writer>
-      <producer>Pokémon USA</producer>
-      <producer>4 Kids Entertainment</producer>
-      <producer>Creatures</producer>
-    </credits>
-    <date>19980911</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/VfdN6pP.gif"></icon>
-    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.4/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/VfdN6pP.gif</image>
-  </programme>
-  <programme start="20261006202945 -0300" stop="20261006210130 -0300" channel="2">
-    <title lang="en">Batman: The Animated Series</title>
-    <title lang="en">Batman: The Animated Series</title>
-    <sub-title lang="en">Two-Face Part II</sub-title>
-    <desc lang="en">Two-Face begins robbing Rupert Thorne&#39;s business in revenge while both the gangster and Batman hunt the dichotomous supervillain for their own reasons.</desc>
-    <credits>
-      <writer>Bob Kane</writer>
-      <writer>Eric Radomski</writer>
-      <writer>Bruce Timm</writer>
-      <writer>2 more credits</writer>
-      <writer>Kevin Conroy</writer>
-      <writer>Loren Lester</writer>
-      <writer>Efrem Zimbalist Jr.</writer>
-      <producer>Warner Bros. Animation</producer>
-      <producer>Warner Bros. Television</producer>
-    </credits>
-    <date>19920928</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/nygJi6C.gif"></icon>
-    <episode-num system="xmltv_ns">0.17.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.9/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/nygJi6C.gif</image>
-  </programme>
-  <programme start="20261006210130 -0300" stop="20261006212526 -0300" channel="2">
-    <title lang="en">Dragon Ball</title>
-    <title lang="en">Dragon Ball</title>
-    <sub-title lang="en">Chichi no hanayome shugyô no okage desu</sub-title>
-    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
-    <credits>
-      <writer>Masako Nozawa</writer>
-      <writer>Jôji Yanami</writer>
-      <writer>Hiromi Tsuru</writer>
-      <producer>The Bird Studio</producer>
-      <producer>Toei Animation</producer>
-      <producer>Toei Company</producer>
-    </credits>
-    <date>19890405</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif"></icon>
-    <episode-num system="xmltv_ns">0.150.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.5/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif</image>
-  </programme>
-  <programme start="20261006212526 -0300" stop="20261006215003 -0300" channel="2">
-    <title lang="en">Sailor Moon</title>
-    <title lang="en">Sailor Moon</title>
-    <sub-title lang="en">Crystal Clear Again</sub-title>
-    <desc lang="en">A young girl is attacked by a Daimon, but Serena is no longer able to transform into Sailor Moon, and the overpowered Sailor Team must one again rely on the mysterious new Sailor Scouts.</desc>
-    <credits>
-      <writer>Susan Roman</writer>
-      <writer>Jill Frappier</writer>
-      <writer>Katie Griffin</writer>
-      <producer>Cloverway International (CWI)</producer>
-      <producer>DIC Entertainment</producer>
-      <producer>Optimum Productions</producer>
-    </credits>
-    <date>20000613</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Family</category>
-    <category lang="en">Fantasy</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif"></icon>
-    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.7/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif</image>
-  </programme>
-  <programme start="20261006215003 -0300" stop="20261006221349 -0300" channel="2">
-    <title lang="en">Dragon Ball Z</title>
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">Time Tricks and Body Binds</sub-title>
-    <desc lang="en">Krillin and Gohan attempt to survive against Guldo&#39;s psychic abilities and find themselves incapacitated until Vegeta intervenes; Piccolo senses that Gohan is in danger.</desc>
-    <credits>
-      <writer>Doc Harris</writer>
-      <writer>Christopher Sabat</writer>
-      <writer>Scott McNeil</writer>
-      <producer>Ocean Group</producer>
-      <producer>Toei Animation</producer>
-      <producer>Toei Company</producer>
-    </credits>
-    <date>19980214</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"></icon>
-    <episode-num system="xmltv_ns">1.23.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.7/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif</image>
-  </programme>
-  <programme start="20261006221349 -0300" channel="2">
-    <title lang="en">Dragon Ball Z</title>
-    <title lang="en">Dragon Ball Z</title>
-    <sub-title lang="en">No Refuge from Recoome</sub-title>
-    <desc lang="en">The battle with Guldo may be over, but the real nightmare is just beginning! Recoome, the most massive member of the Ginyu Force, is ready to fight, and even the mighty Vegeta&#39;s attacks have no effect on this monstrous foe!</desc>
-    <credits>
-      <writer>Doc Harris</writer>
-      <writer>Christopher Sabat</writer>
-      <writer>Scott McNeil</writer>
-      <producer>Ocean Group</producer>
-      <producer>Toei Animation</producer>
-      <producer>Toei Company</producer>
-    </credits>
-    <date>19980518</date>
-    <category lang="en">Animation</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif"></icon>
-    <episode-num system="xmltv_ns">1.24.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>8.7/10</value>
-    </star-rating>
-    <image>https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif</image>
-  </programme>
-  <programme start="20261003002954 +0000" stop="20261003005928 +0000" channel="3">
-    <title lang="en">All That</title>
-    <title lang="en">All That</title>
-    <sub-title lang="en">Episode #2.18</sub-title>
-    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
-    <credits>
-      <writer>Brian Robbins</writer>
-      <writer>Michael Tollin</writer>
-      <writer>Amanda Bynes</writer>
-      <writer>Nick Cannon</writer>
-      <writer>Kenan Thompson</writer>
-      <producer>Tollin/Robbins Productions</producer>
-      <producer>Schneider&#39;s Bakery</producer>
-    </credits>
-    <date>19960329</date>
-    <category lang="en">Adventure</category>
-    <category lang="en">Family</category>
-    <category lang="en">GameShow</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWJjZTlhZDYtNzg3MS00MTg5LThiZmItODI2NzA2MGRiZTlhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR85,0,630,1200_AL_.jpg"></icon>
-    <episode-num system="xmltv_ns">1.17.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.5/10</value>
-    </star-rating>
-    <image>https://m.media-amazon.com/images/M/MV5BOWJjZTlhZDYtNzg3MS00MTg5LThiZmItODI2NzA2MGRiZTlhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR85,0,630,1200_AL_.jpg</image>
-  </programme>
-  <programme start="20261003005928 +0000" stop="20261003012936 +0000" channel="3">
-    <title lang="en">Animorphs</title>
-    <title lang="en">Animorphs</title>
-    <sub-title lang="en">Underground</sub-title>
-    <desc lang="en">The Animorphs try out the disk, but nothing happens. Jake and Marco realize that someone very close to Jake is a Controller. The Controller turns out to be Jake&#39;s brother, Tom. Jake wants his brother back, and he&#39;ll do anything to do it. They tried morphing out into ferocious animals from the clinic that Cassie&#39;s mother works in. Jake acquires a tiger and Rachel acquires a lion. They use it to try and free all of the humans in the Yeerk Pool located under the school. Their attempt ended with no free humans, without Tom, Tobias was gone (probably captured by the Yeerks...</desc>
-    <credits>
-      <writer>Shawn Ashmore</writer>
-      <writer>Brooke Nevin</writer>
-      <writer>Boris Cabrera</writer>
-      <producer>Angel/Brown Productions</producer>
-      <producer>Scholastic Productions</producer>
-      <producer>Protocol Entertainment</producer>
-    </credits>
-    <date>19980922</date>
-    <category lang="en">SciFi</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTk4MDQxNzU4OV5BMl5BanBnXkFtZTcwMzY5NzMyMQ@@._V1_UY1200_CR23,0,630,1200_AL_.jpg"></icon>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <star-rating system="imdb">
-      <value>6.7/10</value>
-    </star-rating>
-    <image>https://m.media-amazon.com/images/M/MV5BMTk4MDQxNzU4OV5BMl5BanBnXkFtZTcwMzY5NzMyMQ@@._V1_UY1200_CR23,0,630,1200_AL_.jpg</image>
   </programme>
   <programme start="20261003012936 +0000" stop="20261003020000 +0000" channel="3">
     <title lang="en">Are You Afraid Of The Dark</title>
@@ -14318,56 +13978,6 @@
       <value>7.8/10</value>
     </star-rating>
     <image>https://m.media-amazon.com/images/M/MV5BMTExNTg5MDM3OTdeQTJeQWpwZ15BbWU2MDA4ODkzNg@@._V1_UY1200_CR103,0,630,1200_AL_.jpg</image>
-  </programme>
-  <programme start="20261003002954 -0300" stop="20261003005928 -0300" channel="4">
-    <title lang="en">All That</title>
-    <title lang="en">All That</title>
-    <sub-title lang="en">Episode #2.18</sub-title>
-    <desc lang="en">Know what this is about?&#xA; Be the first one to add a plot.</desc>
-    <credits>
-      <writer>Brian Robbins</writer>
-      <writer>Michael Tollin</writer>
-      <writer>Amanda Bynes</writer>
-      <writer>Nick Cannon</writer>
-      <writer>Kenan Thompson</writer>
-      <producer>Tollin/Robbins Productions</producer>
-      <producer>Schneider&#39;s Bakery</producer>
-    </credits>
-    <date>19960329</date>
-    <category lang="en">Adventure</category>
-    <category lang="en">Family</category>
-    <category lang="en">GameShow</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BOWJjZTlhZDYtNzg3MS00MTg5LThiZmItODI2NzA2MGRiZTlhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR85,0,630,1200_AL_.jpg"></icon>
-    <episode-num system="xmltv_ns">1.17.0/1</episode-num>
-    <rating system="VCHIP">
-      <value>TV-Y7</value>
-    </rating>
-    <star-rating system="imdb">
-      <value>7.5/10</value>
-    </star-rating>
-    <image>https://m.media-amazon.com/images/M/MV5BOWJjZTlhZDYtNzg3MS00MTg5LThiZmItODI2NzA2MGRiZTlhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR85,0,630,1200_AL_.jpg</image>
-  </programme>
-  <programme start="20261003005928 -0300" stop="20261003012936 -0300" channel="4">
-    <title lang="en">Animorphs</title>
-    <title lang="en">Animorphs</title>
-    <sub-title lang="en">Underground</sub-title>
-    <desc lang="en">The Animorphs try out the disk, but nothing happens. Jake and Marco realize that someone very close to Jake is a Controller. The Controller turns out to be Jake&#39;s brother, Tom. Jake wants his brother back, and he&#39;ll do anything to do it. They tried morphing out into ferocious animals from the clinic that Cassie&#39;s mother works in. Jake acquires a tiger and Rachel acquires a lion. They use it to try and free all of the humans in the Yeerk Pool located under the school. Their attempt ended with no free humans, without Tom, Tobias was gone (probably captured by the Yeerks...</desc>
-    <credits>
-      <writer>Shawn Ashmore</writer>
-      <writer>Brooke Nevin</writer>
-      <writer>Boris Cabrera</writer>
-      <producer>Angel/Brown Productions</producer>
-      <producer>Scholastic Productions</producer>
-      <producer>Protocol Entertainment</producer>
-    </credits>
-    <date>19980922</date>
-    <category lang="en">SciFi</category>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMTk4MDQxNzU4OV5BMl5BanBnXkFtZTcwMzY5NzMyMQ@@._V1_UY1200_CR23,0,630,1200_AL_.jpg"></icon>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <star-rating system="imdb">
-      <value>6.7/10</value>
-    </star-rating>
-    <image>https://m.media-amazon.com/images/M/MV5BMTk4MDQxNzU4OV5BMl5BanBnXkFtZTcwMzY5NzMyMQ@@._V1_UY1200_CR23,0,630,1200_AL_.jpg</image>
   </programme>
   <programme start="20261003012936 -0300" stop="20261003020000 -0300" channel="4">
     <title lang="en">Are You Afraid Of The Dark</title>
