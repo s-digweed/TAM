@@ -1,0 +1,51 @@
+name: Toonami Aftermath EPG
+
+on:
+  schedule:
+    - cron: "0 3 * * *"        # daily ~06:00 Riyadh
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tam-epg
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Runs chris102994/toonamiaftermath-cli once (no cron => single pass, then
+      # exits). The image's entrypoint is already `run --config /config/config.yaml`;
+      # a missing config.yaml is non-fatal (it falls back to defaults), and any flags
+      # we append here are passed straight through to `run`.
+      #   --user keeps the output files owned by the runner so git can commit them.
+      #   --scrape-count raises how many guide items per channel are pulled (default 75).
+      - name: Generate M3U + XMLTV
+        run: |
+          docker run --rm \
+            --user "$(id -u):$(id -g)" \
+            -v "$PWD":/config \
+            ghcr.io/chris102994/toonamiaftermath-cli:latest \
+            --scrape-count 200
+
+      - name: Show output
+        run: ls -l index.m3u index.xml cache.json || true
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.m3u index.xml cache.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Toonami Aftermath EPG [skip ci]"
+            git pull --rebase origin main || git rebase --abort
+            git push
+          fi
